@@ -1,8 +1,9 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "brose",
+  "doi": "https://doi.org/10.1890/05-0379",
   "resources": {
     "brose/references.csv": "references.csv",
-    "http://www.esapubs.org/archive/ecol/E086/135/bodysizes_2008.txt": "http://www.esapubs.org/archive/ecol/E086/135/bodysizes_2008.txt"
+    "http://www.esapubs.org/archive/ecol/E086/135/bodysizes_2008.txt": "bodysizes_2008.txt"
   }
 }
