@@ -1,6 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "brose",
+  "citation": "Brose, U. et al., 2005. Body sizes of consumers and their resources. Ecology, 86(9), pp.2545–2545. Available at: http://dx.doi.org/10.1890/05-0379.",
   "doi": "https://doi.org/10.1890/05-0379",
   "resources": {
     "brose/references.csv": "references.csv",
